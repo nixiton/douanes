@@ -70,6 +70,20 @@
                     </div>
 
                 </div>
+
+                <div class="form-group">
+                    <label class="control-label col-lg-4">Post utilisé</label>
+
+                    <div class="col-lg-4">
+                        <div class="detail-label">Windows@172.16.0.98</div>
+                    </div>   
+
+
+                    <div class="col-lg-4">
+                        
+                    </div>
+
+                </div>
             
 
 

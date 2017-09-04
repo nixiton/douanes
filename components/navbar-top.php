@@ -72,7 +72,7 @@
                                     </li>
 
                                     <li >
-                                        <a href="?content=content/saisie_nouveaux_materiels&menu=saisie_nouveaux_materiels">Prise en charge</a>
+                                        <a href="?content=content/prise_en_charge&menu=prise_en_charge">Prise en charge</a>
                                     </li>
 
 
@@ -97,10 +97,8 @@
                                         </a>
                                         <ul class="dropdown-menu">
                                             <li><a href="?content=content/tracabilite">Traçabilité </a></li>
-                                            <li><a href="?content=content/list&menu=list">Liste des matériels</a></li>
-                                            <li><a href="?content=content/list&menu=list">Statut actuel d’un matériel</a></li>
-                                            <li><a href="?content=content/list&menu=list">Historique d’un matériel</a></li>
-                                            <li><a href="?content=content/list&menu=list">Edition des états et registres réglementaires</a></li>
+                                            <li><a href="?content=content/list&menu=list">Liste des matériels, statut et historique</a></li>
+                                            <li><a href="?content=content/ordre_sortie&menu=edition_etat">Edition des états et registres réglementaires</a></li>
 
                                         </ul>
                                     </li>

@@ -47,7 +47,7 @@
                 </div>
 
 
-                <div class="form-group">
+                <!--div class="form-group">
                 <label for="text1" class="control-label col-lg-4">Fonction </label>
 
                     <div class="col-lg-4">
@@ -77,7 +77,7 @@
                         
                     </div>
                     
-                </div>
+                </div-->
 
                 <div class="form-group">
                       <label for="text1" class="control-label col-lg-4"></label>

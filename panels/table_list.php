@@ -17,7 +17,7 @@
                 <th>Photo</th>
                 <th></th>
                 <th></th>
-                <th></th>
+                <!--th></th-->
             </tr>
         </thead>
 
@@ -37,7 +37,7 @@
                 <td></td>
                 <td><a href="?content=content/statut_materiel&menu=list">Statut</a></td>
                 <td><a href="?content=content/historique_materiel&menu=list"><i class="fa fa-calendar"></i></a></td>
-                <td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td>
+                <!--td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td-->
             </tr>
 
             <tr>
@@ -55,7 +55,7 @@
                 <td></td>
                 <td><a href="?content=content/statut_materiel&menu=list">Statut</a></td>
                 <td><a href="?content=content/historique_materiel&menu=list"><i class="fa fa-calendar"></i></a></td>
-                <td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td>
+                <!--td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td-->
             </tr>
 
             <tr>
@@ -73,7 +73,7 @@
                 <td></td>
                 <td><a href="?content=content/statut_materiel&menu=list">Statut</a></td>
                 <td><a href="?content=content/historique_materiel&menu=list"><i class="fa fa-calendar"></i></a></td>
-                <td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td>
+                <!--td><a href="?content=forms/edit_registre&menu=list"><i class="fa fa-edit"></i></a></td-->
             </tr>
         
         </tbody>                

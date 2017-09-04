@@ -1,3 +1,4 @@
+
 <form class="form-horizontal">
 
                 <div class="form-group">
@@ -45,10 +46,8 @@
                 </div>
 
 
-
-
                 <div class="form-group">
-                    <label for="text1"  class="control-label col-lg-4">Insertion prix de l’unité</label>
+                    <label for="text1"  class="control-label col-lg-4">Nombre par type</label>
 
                     <div class="col-lg-4">
                         <input type="number" id="text1" placeholder="" class="form-control">
@@ -105,11 +104,13 @@
 
 
                 <div class="form-group">
-                    <label class="control-label col-lg-4">Détenteur</label>
+                    <label class="control-label col-lg-4">Mode d'aquisition</label>
 
                     <div class="col-lg-4">
-                        <input type="text" id="text1" placeholder="" class="form-control">
-                    </div>   
+                        <select class="form-control">
+                            <option>Achat</option>
+                        </select>
+                    </div>
 
 
                     <div class="col-lg-4">
@@ -117,6 +118,52 @@
                     </div>
 
                 </div>
+
+
+                 <div class="form-group">
+                    <label for="text1"  class="control-label col-lg-4">Montant sur facture</label>
+
+                    <div class="col-lg-4">
+                        <input type="number" id="text1" placeholder="" class="form-control">
+                    </div>   
+
+                    <div class="col-lg-4">
+                        
+                    </div>
+                    
+                </div>
+
+                <div class="form-group">
+                    <label for="text1"  class="control-label col-lg-4">Référernce facture</label>
+
+                    <div class="col-lg-4">
+                        <input type="text" id="text1" placeholder="" class="form-control">
+                    </div>   
+
+                    <div class="col-lg-4">
+                        
+                    </div>
+                    
+                </div>
+
+
+                <div class="form-group">
+                    <label class="control-label col-lg-4">Fournisseur</label>
+
+                    <div class="col-lg-4">
+                        <select class="form-control">
+                            <option>ABC</option>
+                        </select>
+                    </div>
+
+
+                    <div class="col-lg-4">
+                        
+                    </div>
+
+                </div>
+
+
 
                 <div class="form-group">
                     <label class="control-label col-lg-4">Etat du matériel</label>
@@ -134,18 +181,7 @@
                 </div>
 
 
-                <div class="form-group">
-                    <label class="control-label col-lg-4">Autres renseignements</label>
 
-                    <div class="col-lg-4">
-                        <textarea type="text" id="text1" placeholder="" class="form-control"></textarea>
-                    </div>
-
-                    <div class="col-lg-4">
-                        
-                    </div>
-
-                </div>
 
 
                 <div class="form-group">

@@ -94,7 +94,7 @@
                     <label class="control-label col-lg-4">Pièce justificative</label>
 
                     <div class="col-lg-4">
-                        <input class="form-control" type="file">
+                        <input class="form-control" type="file" name="file[]" multiple/>
                     </div>
 
                     <div class="col-lg-4">

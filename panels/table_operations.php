@@ -12,6 +12,7 @@
                 <th>Type d'action</th>
                 <th>Agent</th>
                 <th>Matériel</th>
+                <th>Post Utilisé</th>
                 <th>Détail</th>
             </tr>
         </thead>
@@ -25,6 +26,7 @@
                 <td>Ajout</td>
                 <td>Jeff</td>
                 <td>Asus...</td>
+                <td>ubuntu@172.16.015</td>
                 <td><a href="?content=content/detail_historique"><i class="fa fa-eye"></i></a></td>
             </tr>
 
@@ -36,6 +38,7 @@
                 <td>Ajout</td>
                 <td>Jeff</td>
                 <td>Asus...</td>
+                <td>ubuntu@172.16.015</td>
                 <td><a href="?content=content/detail_historique"><i class="fa fa-eye"></i></a></td>
             </tr>
 
@@ -47,6 +50,7 @@
                 <td>Ajout</td>
                 <td>Jeff</td>
                 <td>Asus...</td>
+                <td>ubuntu@172.16.015</td>
                 <td><a href="?content=content/detail_historique"><i class="fa fa-eye"></i></a></td>
             </tr>
 
