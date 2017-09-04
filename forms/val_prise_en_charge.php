@@ -215,11 +215,24 @@
 
 
                 <div class="form-group">
-                    <label class="control-label col-lg-4">Valid</label>
+                    <label class="control-label col-lg-4">Validation</label>
 
                     <div class="col-lg-4">
-                        <label>VALIDER</label><input class="form-control" name="valid" type="radio">
-                        <label>A CORRIGER</label><input class="form-control" name="valid" type="radio">
+
+                        <br><br><br><br>
+                        <div class="toggle-radio">
+                          <input type="radio" name="rdo" id="yes" checked>
+                          <input type="radio" name="rdo" id="no">
+                          <div class="switch">
+                            <label for="yes">Valider</label>
+                            <label for="no">Corriger</label>
+                            <span></span>
+                          </div>
+                        </div>
+
+
+
+
                     </div>
 
                     <div class="col-lg-4">

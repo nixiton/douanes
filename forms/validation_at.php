@@ -37,7 +37,7 @@
                 <td>NEUF</td>
                 <td></td>
                 <td></td>
-                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block ">Validation</a></td>
+                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block "><i class="fa fa-check-square-o"></i></a></td>
                 
             </tr>
 
@@ -56,7 +56,7 @@
                 <td>NEUF</td>
                 <td></td>
                 <td></td>
-                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block ">Validation</a></td>
+                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block "><i class="fa fa-check-square-o"></i></a></td>
                 
             </tr>
 
