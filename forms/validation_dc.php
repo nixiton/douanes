@@ -1,6 +1,3 @@
-
-
-
 <div id="defaultTable" class="body collapse in table-responsive">
 
     <table class="table responsive-table">
@@ -20,8 +17,7 @@
                 <th>Etat</th>
                 <th>Document</th>
                 <th>Phtoto</th>
-                <th>VALIDER</th>
-                <th>NON</th>
+                <th></th>
             </tr>
         </thead>
 
@@ -41,9 +37,10 @@
                 <td>NEUF</td>
                 <td></td>
                 <td></td>
-                <td><input name="valider" type="radio"></td>
-                <td><input name="valider" type="radio"></td>
+                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block ">Validation</a></td>
+                
             </tr>
+
             <tr>
                 
                 <td>1</td>
@@ -59,17 +56,13 @@
                 <td>NEUF</td>
                 <td></td>
                 <td></td>
-                <td><input name="valider1" type="radio"></td>
-                <td><input name="valider1" type="radio"></td>
+                <td><a href="?content=forms/val_prise_en_charge" class="btn btn-lg btn-primary btn-block ">Validation</a></td>
+                
             </tr>
+
+            
         </tbody>                
     </table>
-
-        <div class="col-lg-4" >
-
-         <a href="" class="btn btn-lg btn-primary btn-block ">Valider</a>
-
-    </div>  
 
 
 </div>
