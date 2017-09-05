@@ -228,9 +228,21 @@
                             <label for="no">Corriger</label>
                             <span></span>
                           </div>
+
+                          <br><br><br>
+
+                          <div class="form-group"  id="motif">
+                            <label class="control-label col-lg-12">Motif</label>
+
+                            <div class="col-lg-12">
+                                <textarea class="form-control"></textarea>
+                            </div>
+
                         </div>
 
+                        </div>
 
+                
 
 
                     </div>
@@ -240,6 +252,9 @@
                     </div>
 
                 </div>
+
+
+
 
 
                 

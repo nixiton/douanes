@@ -2660,3 +2660,13 @@ body.error .logo h1 {
   #no:checked ~ .switch label[for=no] {
     color: #fff;
   }
+
+  
+  #motif{
+    display: none;
+  }
+
+  #no:checked ~ #motif{
+    display: block!important;
+  }
+
