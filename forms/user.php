@@ -88,4 +88,4 @@
 </div>
 
 
-<?php include('pop_ups/popup_list.php') ?>
+<?php //include('pop_ups/popup_list.php') ?>

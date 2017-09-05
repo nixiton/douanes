@@ -96,7 +96,7 @@
                     var myIcon   =  '<i class="icon icon-flag-checkered icon-large pull-left"></i>'; 
 
                     $( "#dialog_list" ).dialog({
-                    height: 200,
+                    height: 600,
                     width:500,
                     autoOpen: false,
 
@@ -129,7 +129,7 @@
 
                     $( "#dialog_user" ).dialog({
                     height: 500,
-                    width:500,
+                    width: 500,
                       autoOpen: false,
                       
                     });

@@ -34,7 +34,7 @@
                     <label class="control-label col-lg-4">Marque</label>
 
                     <div class="col-lg-4">
-                        <select readonly="" class="form-control">
+                        <select disabled class="form-control">
                             <option>Asus</option>
                         </select>
                     </div>
@@ -108,7 +108,7 @@
                     <label class="control-label col-lg-4">Mode d'aquisition</label>
 
                     <div class="col-lg-4">
-                        <select readonly="" class="form-control">
+                        <select disabled class="form-control">
                             <option>Achat</option>
                         </select>
                     </div>
@@ -152,7 +152,7 @@
                     <label class="control-label col-lg-4">Fournisseur</label>
 
                     <div class="col-lg-4">
-                        <select readonly="" class="form-control">
+                        <select disabled class="form-control">
                             <option>ABC</option>
                         </select>
                     </div>
@@ -170,7 +170,7 @@
                     <label class="control-label col-lg-4">Etat du matériel</label>
 
                     <div class="col-lg-4">
-                        <select readonly="" class="form-control">
+                        <select disabled class="form-control">
                             <option>Bon Etat</option>
                             <option>Mauvais Etat</option>
                         </select>
