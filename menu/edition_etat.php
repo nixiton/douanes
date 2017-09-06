@@ -18,7 +18,7 @@
 </li>
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-table"></i>
     <span class="link-title">Journal</span>
     
@@ -27,7 +27,7 @@
 
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-book"></i>
     <span class="link-title">Grand livre annuel</span>
     
@@ -36,7 +36,7 @@
 
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-thumbs-up"></i>
     <span class="link-title">Etat appréciatif</span>
     
@@ -45,7 +45,7 @@
 
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-list"></i>
     <span class="link-title">Inventaire</span>
     
@@ -54,7 +54,7 @@
 
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-user"></i>
     <span class="link-title">Etat détenteur effectif</span>
     
@@ -63,7 +63,7 @@
 
 
 <li class="">
-  <a href="?content=content/&menu=edition_etat">
+  <a href="?content=content/admin&menu=edition_etat">
     <i class="fa fa-user-circle"></i>
     <span class="link-title">Fournisseurs</span>
     
